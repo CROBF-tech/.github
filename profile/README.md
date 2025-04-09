@@ -15,6 +15,9 @@ CROBF está conformado por un equipo de profesionales dedicados a mejorar la cal
   - 🔸 [Julieta Sotelo](https://github.com/JuuSotelo)
   - 🔸 [Santiago Suárez](https://github.com/SantiagoSuarez9)  
   - 🔸 [Ana Paula Toledo](https://github.com/paulytoledoo)
+  - 🔸 [Dian Leandro](https://github.com/LeanNDQ)
+  - 🔸 [Dominguez Joaquin](http://github.com/DOMINGUEZJOACOO)
+  - 🔸 [Montañez Briana](https://github.com/brimon1)
 
 > 🛠 **Nuestra misión:** Crear herramientas digitales robustas y accesibles, fomentando el aprendizaje y la innovación tecnológica.
 
