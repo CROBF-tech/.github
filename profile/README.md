@@ -13,7 +13,6 @@ CROBF está conformado por un equipo de profesionales dedicados a mejorar la cal
 - **Miembros:**  
   - 🔸 [Sofía Rubio](https://github.com/SofiaNRubio)
   - 🔸 [Julieta Sotelo](https://github.com/JuuSotelo)
-  - 🔸 [Santiago Suárez](https://github.com/SantiagoSuarez9)  
   - 🔸 [Ana Paula Toledo](https://github.com/paulytoledoo)
   - 🔸 [Dian Leandro](https://github.com/LeanNDQ)
   - 🔸 [Dominguez Joaquin](http://github.com/DOMINGUEZJOACOO)
