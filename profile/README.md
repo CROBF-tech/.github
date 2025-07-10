@@ -30,4 +30,4 @@ CROBF está conformado por un equipo de profesionales dedicados a mejorar la cal
 Si compartes nuestra pasión por la tecnología y quieres contribuir con nuestros proyectos, ¡eres bienvenido!  
 Puedes explorar nuestros repositorios y abrir un **issue** o **pull request** con tus ideas.
 
-📩 **Contáctanos:** crobf.arg@gmail.com
+📩 **Contáctanos:** contacto@crobf.tech
